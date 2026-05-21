@@ -1,0 +1,369 @@
+[
+  {
+    "name": "home-desktop-full",
+    "metrics": {
+      "url": "http://localhost:5173/",
+      "title": "4U HOME | Thiết Kế & Thi Công Nội Thất Đẳng Cấp",
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 4480,
+      "bodyScrollWidth": 1440,
+      "headerButton": [
+        {
+          "text": "",
+          "cls": "mobile-menu-btn",
+          "display": "none",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "text": "TƯ VẤN NGAY",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 806.859375,
+            "y": 3748.578125,
+            "w": 173.140625,
+            "h": 50
+          }
+        }
+      ],
+      "h1": [
+        {
+          "text": "Nâng Tầm Phong Cách Sống\nVới Thiết Kế Đẳng Cấp",
+          "rect": {
+            "x": 352,
+            "y": 164.984375,
+            "w": 736,
+            "h": 309.125
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "home-mobile-full",
+    "metrics": {
+      "url": "http://localhost:5173/",
+      "title": "4U HOME | Thiết Kế & Thi Công Nội Thất Đẳng Cấp",
+      "innerWidth": 390,
+      "innerHeight": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 8869,
+      "bodyScrollWidth": 390,
+      "headerButton": [
+        {
+          "text": "",
+          "cls": "mobile-menu-btn",
+          "display": "block",
+          "rect": {
+            "x": 306,
+            "y": 15.5,
+            "w": 44,
+            "h": 48
+          }
+        },
+        {
+          "text": "TƯ VẤN NGAY",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 32,
+            "y": 7266.515625,
+            "w": 326,
+            "h": 50
+          }
+        }
+      ],
+      "h1": [
+        {
+          "text": "Nâng Tầm Phong Cách Sống\nVới Thiết Kế Đẳng Cấp",
+          "rect": {
+            "x": 32,
+            "y": 49.40625,
+            "w": 326,
+            "h": 230
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "projects-full",
+    "metrics": {
+      "url": "http://localhost:5173/du-an",
+      "title": "4U HOME | Thiết Kế & Thi Công Nội Thất Đẳng Cấp",
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 1928,
+      "bodyScrollWidth": 1440,
+      "headerButton": [
+        {
+          "text": "",
+          "cls": "mobile-menu-btn",
+          "display": "none",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "text": "Tất cả",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 417.1875,
+            "y": 469.90625,
+            "w": 89.671875,
+            "h": 36
+          }
+        },
+        {
+          "text": "Biệt Thự",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 518.859375,
+            "y": 469.90625,
+            "w": 101.75,
+            "h": 36
+          }
+        },
+        {
+          "text": "Căn Hộ",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 632.609375,
+            "y": 469.90625,
+            "w": 94.3125,
+            "h": 36
+          }
+        },
+        {
+          "text": "Nhà Phố",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 738.921875,
+            "y": 469.90625,
+            "w": 101.484375,
+            "h": 36
+          }
+        },
+        {
+          "text": "Văn Phòng",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 852.40625,
+            "y": 469.90625,
+            "w": 118.28125,
+            "h": 36
+          }
+        },
+        {
+          "text": "Showroom",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 982.6875,
+            "y": 469.90625,
+            "w": 117.390625,
+            "h": 36
+          }
+        }
+      ],
+      "h1": [
+        {
+          "text": "Dự Án Tiêu Biểu",
+          "rect": {
+            "x": 100,
+            "y": 198.09375,
+            "w": 1240,
+            "h": 61.4375
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "contact-full",
+    "metrics": {
+      "url": "http://localhost:5173/lien-he",
+      "title": "4U HOME | Thiết Kế & Thi Công Nội Thất Đẳng Cấp",
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 2033,
+      "bodyScrollWidth": 1440,
+      "headerButton": [
+        {
+          "text": "",
+          "cls": "mobile-menu-btn",
+          "display": "none",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "text": "GỬI YÊU CẦU",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 738.53125,
+            "y": 1022.265625,
+            "w": 561.46875,
+            "h": 50
+          }
+        }
+      ],
+      "h1": [
+        {
+          "text": "Liên Hệ 4U HOME",
+          "rect": {
+            "x": 100,
+            "y": 198.09375,
+            "w": 1240,
+            "h": 61.4375
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "admin-full",
+    "metrics": {
+      "url": "http://localhost:5173/admin",
+      "title": "4U HOME | Thiết Kế & Thi Công Nội Thất Đẳng Cấp",
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 1477,
+      "bodyScrollWidth": 1440,
+      "headerButton": [
+        {
+          "text": "",
+          "cls": "mobile-menu-btn",
+          "display": "none",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "text": "Tổng quan",
+          "cls": "",
+          "display": "flex",
+          "rect": {
+            "x": 0,
+            "y": 170.59375,
+            "w": 280,
+            "h": 46
+          }
+        },
+        {
+          "text": "Quản lý Banner",
+          "cls": "",
+          "display": "flex",
+          "rect": {
+            "x": 0,
+            "y": 216.59375,
+            "w": 280,
+            "h": 46
+          }
+        },
+        {
+          "text": "Dự án",
+          "cls": "",
+          "display": "flex",
+          "rect": {
+            "x": 0,
+            "y": 262.59375,
+            "w": 280,
+            "h": 46
+          }
+        },
+        {
+          "text": "Khách hàng (Leads)",
+          "cls": "",
+          "display": "flex",
+          "rect": {
+            "x": 0,
+            "y": 308.59375,
+            "w": 280,
+            "h": 46
+          }
+        },
+        {
+          "text": "SEO & Tracking",
+          "cls": "",
+          "display": "flex",
+          "rect": {
+            "x": 0,
+            "y": 354.59375,
+            "w": 280,
+            "h": 46
+          }
+        },
+        {
+          "text": "Cài đặt chung",
+          "cls": "",
+          "display": "flex",
+          "rect": {
+            "x": 0,
+            "y": 400.59375,
+            "w": 280,
+            "h": 46
+          }
+        },
+        {
+          "text": "Hủy bỏ",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 868.171875,
+            "y": 953.59375,
+            "w": 103.03125,
+            "h": 42
+          }
+        },
+        {
+          "text": "Lưu cấu hình",
+          "cls": "",
+          "display": "block",
+          "rect": {
+            "x": 983.203125,
+            "y": 953.59375,
+            "w": 136.796875,
+            "h": 42
+          }
+        }
+      ],
+      "h1": [
+        {
+          "text": "Cấu hình SEO & Tracking",
+          "rect": {
+            "x": 320,
+            "y": 120,
+            "w": 800,
+            "h": 31.1875
+          }
+        }
+      ]
+    }
+  }
+]
