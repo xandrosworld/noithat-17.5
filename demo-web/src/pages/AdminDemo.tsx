@@ -591,7 +591,19 @@ const AdminDemo = () => {
       {/* ── Sidebar ── */}
       <aside className={`adm-sidebar ${sidebarOpen ? 'adm-sidebar--open' : ''}`}>
         <div className="adm-sidebar-brand">
-          <div className="adm-brand-mark">4U</div>
+          <div style={{ position: 'relative', width: 42, height: 42, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+            <img 
+              src="/assets/LOGO-01 PNG.png" 
+              alt="4U Home Logo" 
+              className="adm-brand-mark-img"
+              onError={(e) => {
+                e.currentTarget.style.display = 'none';
+                const fb = document.getElementById('adm-brand-fb');
+                if (fb) fb.style.display = 'flex';
+              }}
+            />
+            <div id="adm-brand-fb" className="adm-brand-mark" style={{ display: 'none', width: '100%', height: '100%', margin: 0 }}>4U</div>
+          </div>
           <div>
             <h2 className="adm-brand-name">4U HOME</h2>
             <p className="adm-brand-sub">CMS Admin Panel</p>
@@ -726,9 +738,14 @@ const adminCSS = `
   background: linear-gradient(135deg, ${T.gold}, ${T.goldDark});
   border-radius: 10px;
   display: flex; align-items: center; justify-content: center;
-  font-weight: 800; font-size: 14; color: #fff;
+  font-weight: 800; font-size: 14px; color: #fff;
   letter-spacing: 1px;
   flex-shrink: 0;
+}
+.adm-brand-mark-img {
+  width: 42px; height: 42px;
+  object-fit: contain;
+  display: block;
 }
 .adm-brand-name {
   font-size: 15px; font-weight: 700; margin: 0;
