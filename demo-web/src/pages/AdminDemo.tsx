@@ -591,7 +591,7 @@ const AdminDemo = () => {
       {/* ── Sidebar ── */}
       <aside className={`adm-sidebar ${sidebarOpen ? 'adm-sidebar--open' : ''}`}>
         <div className="adm-sidebar-brand">
-          <div style={{ position: 'relative', width: 42, height: 42, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+          <div style={{ position: 'relative', width: 54, height: 54, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
             <img 
               src="/assets/LOGO-01 PNG.png" 
               alt="4U Home Logo" 
@@ -602,7 +602,7 @@ const AdminDemo = () => {
                 if (fb) fb.style.display = 'flex';
               }}
             />
-            <div id="adm-brand-fb" className="adm-brand-mark" style={{ display: 'none', width: '100%', height: '100%', margin: 0 }}>4U</div>
+            <div id="adm-brand-fb" className="adm-brand-mark" style={{ display: 'none', width: '100%', height: '100%', margin: 0, fontSize: '20px' }}>4U</div>
           </div>
           <div>
             <h2 className="adm-brand-name">4U HOME</h2>
@@ -743,7 +743,7 @@ const adminCSS = `
   flex-shrink: 0;
 }
 .adm-brand-mark-img {
-  width: 42px; height: 42px;
+  width: 54px; height: 54px;
   object-fit: contain;
   display: block;
 }
